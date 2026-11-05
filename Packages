@@ -1,0 +1,10 @@
+Package: com.osmanburda.desingos
+Name: Desingos
+Version: 1.5.38
+Architecture: iphoneos-arm64
+Maintainer: OsmanBurda
+Author: OsmanBurda
+Section: Tweaks
+Description: Desingos theming engine by OsmanBurda
+Filename: ./Deisngos-1.5.38-Beta4-rootless.deb
+Size: 608000
